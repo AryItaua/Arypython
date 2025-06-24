@@ -1,0 +1,19 @@
+escrever um algoritmo para esquentar comida (arroz) no fogão
+
+1 - pegar a panela
+2 - colocar sobre a boca do fogão desejada
+3 - ascender a boca do fogão onde está a panela
+4 - retirar a comida da geladeira
+5 - colocar na panela já pré-aquecida
+6 - deixar aquecendo por 3 minutos
+7 - verificar se a comida aqueceu
+8 - se esquentou conforme o esperado
+9 - desligar a boca do fogão onde a panela aqueceu
+10- pegar o prato
+11- colocar a comida
+12- pegar o talher
+13- comer a comida
+14- se não esquentou conforme o esperado
+15- deixar por mais 3 minutos
+16- esquentou conforme o esperado
+17- executar os passos de 9 à 13.
